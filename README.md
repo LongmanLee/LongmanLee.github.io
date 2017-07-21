@@ -1,4 +1,4 @@
-# longman的bolg目录
+# longman的博客目录
 - 起步
     1. [尝试用markdown写博客](src/md/20170720.md) 
 - 关于我
