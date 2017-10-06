@@ -4,6 +4,7 @@
     2. [关于H.265解码器](src/md/20170723.md)
     3. [Git命令备忘](src/md/20170725.md)
     4. [UML类图学习](src/md/20170806.md)
+    5. [Python学习历程](src/md/20171006.md)
 - 关于我
     1. [我的简历](src/md/个人简历.md)
     2. [项目主页](https://github.com/LongmanLee) 
